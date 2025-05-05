@@ -1,1 +1,1 @@
-This repositry consist of programs for error handling and modules. 
+This repositry consists of programs for error handling and modules. 
